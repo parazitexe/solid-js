@@ -1,0 +1,5 @@
+//single Responsibility
+
+class ClassSR {
+
+}
